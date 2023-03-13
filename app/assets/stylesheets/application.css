@@ -5,3 +5,11 @@
 /*  color: #6c6b6b;*/
 /*}*/
 
+.link{
+  color: gray;
+}
+
+.link:hover{
+  background-color: black;
+  color: white;
+}
